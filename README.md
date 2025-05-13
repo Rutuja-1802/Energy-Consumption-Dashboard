@@ -25,11 +25,11 @@ Utilized Power BI’s capabilities to design a dynamic and interactive dashboard
 * Incorporated tooltips and drill-down features for deeper analysis
 
 📊 Dashboard Features
-* 📅 Monthly and yearly energy consumption trends**
-* 🏢 Department-wise and source-wise usage comparison**
-* ⚠️ Anomaly detection and peak usage identification**
-* 🔍 Interactive drill-down and filter options**
-* 💡 Insights into energy conservation opportunities**
+* 📅 Monthly and yearly energy consumption trends
+* 🏢 Department-wise and source-wise usage comparison
+* ⚠️ Anomaly detection and peak usage identification
+* 🔍 Interactive drill-down and filter options
+* 💡 Insights into energy conservation opportunities
 
 
 🚀 Impact
