@@ -1,5 +1,4 @@
-📌 Project Overview
-⚡Energy Consumption Dashboard
+
 The Energy Consumption Dashboard provides a comprehensive and interactive view of how energy is utilized within the organization. It highlights critical usage trends, compares department-wise consumption, and pinpoints areas with high or irregular usage patterns.
 
 🛠️ Process Workflow
